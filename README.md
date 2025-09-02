@@ -42,9 +42,8 @@ This was a **group project (3 members)**.
 ---
 
 ## Repository Structure  
-greater-sydney-bustling-index/  
-│── [Lab-16_Group1.html](https://github.com/yun-522/Greater-Sydney-Analysis-Assignment-DATA2001/blob/2e556d5193f23998814c292bd87e27c066d3fc04/code.pdf)   # Code + analysis (Jupyter Notebook HTML export)  
-│── README.md   # Project description  
+- [Lab-16_Group1.html](https://github.com/yun-522/Greater-Sydney-Analysis-Assignment-DATA2001/blob/2e556d5193f23998814c292bd87e27c066d3fc04/code.pdf)   # Code + analysis (Jupyter Notebook HTML export)  
+- README.md   # Project description  
 
 ---
 
